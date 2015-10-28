@@ -1,0 +1,46 @@
+.name-links {
+  color: white;
+  background-image: url("/images/home-back.jpeg");
+  background-size:cover;
+  background-repeat: no-repeat;
+  font-family: Hind;
+  text-align: center;
+  height: 100vh;
+  box-shadow: inset 0px -30px 100px #000000;
+}
+.name-links p {
+  letter-spacing: 1px;
+  font-weight: 300;
+  font-size: 18px;
+}
+.name-links-list {
+  margin-top: 20px;
+}
+
+.name-links-list li {
+  display: inline-block;
+  padding: 5px;
+  margin: 5px;
+  width: 70px;
+}
+
+.name-links-list li:hover {
+  margin-top: -2px;
+  border-top: 1px solid white;
+  border-bottom: 1px solid white;
+}
+
+.name-links-list a {
+  color: white;
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: 300;
+  letter-spacing: 1px;
+}
+
+.name-links h1 {
+  padding-top: 200px;
+  margin-bottom: 10px;
+  font-size: 48px;
+  font-weight: 300;
+}
